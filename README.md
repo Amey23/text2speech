@@ -57,6 +57,7 @@ and webserver will start and landing page will open at http://127.0.0.1:5000/
 
 ## See output
 Write the content in text box and get the audio on right side.
+<br><br>
 ![Alt Text](https://github.com/Amey23/text2speech/blob/main/Capture.PNG)
 <br>
 
