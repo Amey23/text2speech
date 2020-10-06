@@ -42,7 +42,15 @@ pip install -r requirements.txt
 ![Alt Text](https://github.com/Amey23/text2speech/blob/main/workkflow.jpg)
 <br>
 
-## To run this web app
+## Implementation
 
 TESTING IN LOCAL/API
-To run this project in your local system just run the file clientApp.py and webserver will start and landing page will open at  http://0.0.0.0:5000/
+To run this project in your local system just run the file app.py as follows,
+```
+set FLASK_APP = app.py
+```
+then after successful excution, type
+```
+flask run
+```
+and webserver will start and landing page will open at  http://0.0.0.0:5000/
