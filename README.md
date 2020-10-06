@@ -53,4 +53,4 @@ then after successful excution, type
 ```
 flask run
 ```
-and webserver will start and landing page will open at  http://0.0.0.0:5000/
+and webserver will start and landing page will open at http://127.0.0.1:5000/
