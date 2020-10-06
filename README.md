@@ -56,5 +56,5 @@ flask run
 and webserver will start and landing page will open at http://127.0.0.1:5000/
 
 ## See output
-![Alt Text](https://github.com/Amey23/text2speech/blob/main/pro2.webp)
+![Alt Text](https://github.com/Amey23/text2speech/blob/main/Capture.PNG)
 <br>
