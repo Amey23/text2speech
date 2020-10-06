@@ -58,3 +58,9 @@ and webserver will start and landing page will open at http://127.0.0.1:5000/
 ## See output
 ![Alt Text](https://github.com/Amey23/text2speech/blob/main/Capture.PNG)
 <br>
+
+## Conclusion
+Hence we have successfully converted digital text data data in audio data or speech.
+
+## Comparison
+Here we can improve the results by testing with other APIs which are available from diffrent third party sources or try out deep learning approaches.
