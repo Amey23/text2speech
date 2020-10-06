@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/ipl.jpeg)
+![Alt Text](https://github.com/Amey23/text2speech/blob/main/pro2.webp)
 <br>
 # IPL-Score-Prediction-with-Flask-Deployment
 Heroku App Link : https://iplscoreprediction.herokuapp.com/
