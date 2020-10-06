@@ -1,6 +1,6 @@
+# TEXT to SPEECH
 ![Alt Text](https://github.com/Amey23/text2speech/blob/main/pro2.webp)
 <br>
-# TEXT to SPEECH
 
 ## PROBLEM STAEMENT
 In this project our goal is to acheive the problem of converting textual data into speech data.
@@ -23,13 +23,20 @@ Installation of this project is pretty easy. Please do follow the following step
 2. Navigate to the directory of the project
 3. Select the option to create a new new virtual environment using conda with python3.6
 4. Finally create the project using used resources.
-5. After the project has been created, install the necessary packages from requirements.txt file using the command pip install -r requirements.txt
+5. After the project has been created, install the necessary packages from requirements.txt file using the command 
+```
+pip install -r requirements.txt
+```
 
 **In Conda also it’s easy**
 
 1. Create a new virtual environment using the command
     conda create -n your_env_name python=3.6
 2. Navigate to the project directory.
-3. Install the necessary packages from requirements.txt file using the command         
+3. Install the necessary packages from requirements.txt file using the command    
+```
 pip install -r requirements.txt
+```
+
+## Workflow Diagram
 
