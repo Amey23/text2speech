@@ -39,4 +39,5 @@ pip install -r requirements.txt
 ```
 
 ## Workflow Diagram
-
+![Alt Text](https://github.com/Amey23/text2speech/blob/main/workkflow.jpg)
+<br>
